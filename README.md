@@ -1,5 +1,6 @@
  👋 Hi, I’m @Jesperrnyman
-  👀 I’m interested in - Electrical engineering
+  👀 I’m studying Electrical engineering
+      Specializing in Cars
   🌱 I’m currently learning - C++ 
   📫 How to reach me - jesper.nymaan@hotmail.com
 
